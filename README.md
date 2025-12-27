@@ -1,0 +1,1 @@
+Built an autonomous fire-fighting robot using a Raspberry Pi to control motors and sensors, and integrated a CNN-based fire detection model that analyzes live camera feeds to locate fire sources and guide the robot toward them in real time.
